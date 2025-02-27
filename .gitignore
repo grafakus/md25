@@ -42,5 +42,7 @@ ci/
 
 # Editor
 .idea
-
 .eslintcache
+
+# Provisioning
+provisioning/datasources/local.yaml

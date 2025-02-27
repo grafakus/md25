@@ -27,6 +27,13 @@
     },
     {
       "type": "page",
+      "name": "🧪 Metrics Drilldown Experiments 🧪",
+      "path": "/a/%PLUGIN_ID%/drilldown",
+      "addToNav": true,
+      "defaultNav": false
+    },
+    {
+      "type": "page",
       "name": "Page with tabs",
       "path": "/a/%PLUGIN_ID%/page-with-tabs",
       "addToNav": true,
@@ -36,13 +43,6 @@
       "type": "page",
       "name": "Page with drilldown",
       "path": "/a/%PLUGIN_ID%/page-with-drilldown",
-      "addToNav": true,
-      "defaultNav": false
-    },
-    {
-      "type": "page",
-      "name": "Hello world",
-      "path": "/a/%PLUGIN_ID%/hello-world",
       "addToNav": true,
       "defaultNav": false
     }
